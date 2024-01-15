@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">messageIcon</string>
+    <string name="accessibility_service_description" />
+    <string name="accessibility_service_label" />
+</resources>
